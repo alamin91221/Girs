@@ -4,7 +4,7 @@
     "name": "Nature",
     "icon": "🌿",
     "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80",
-    "order": 1,
+    "order": 11,
     "visible": true,
     "wallpapersCount": 124
   },
