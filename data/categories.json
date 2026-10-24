@@ -85,7 +85,7 @@
     "name": "Anime",
     "icon": "⛩️",
     "imageUrl": "https://raw.githubusercontent.com/alamin91221/Girs/main/images/categories/anime.jpg",
-    "order": 10,
+    "order": 1,
     "visible": true,
     "wallpapersCount": 0
   }
