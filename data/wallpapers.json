@@ -16,10 +16,10 @@
   {
     "id": "wp-1792835249177-xxag",
     "title": "Tt5 (2)",
-    "categoryId": "nature",
+    "categoryId": "amoled",
     "imageUrl": "https://raw.githubusercontent.com/alamin91221/Girs/main/images/nature/wp-1792835249177-xxag.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/alamin91221/Girs/main/thumbs/nature/wp-1792835249177-xxag.jpg",
-    "isPremium": false,
+    "thumbUrl": "https://raw.githubusercontent.com/alamin91221/Girs/main/images/nature/wp-1792835249177-xxag.jpg",
+    "isPremium": true,
     "isTrending": false,
     "tags": [],
     "createdAt": "2026-10-24T09:47:34.420Z",
