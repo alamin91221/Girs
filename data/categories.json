@@ -75,7 +75,7 @@
     "id": "amoled",
     "name": "Amoled",
     "icon": "📱",
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/alamin91221/Girs/main/images/categories/amoled.jpg",
     "order": 9,
     "visible": true,
     "wallpapersCount": 0
